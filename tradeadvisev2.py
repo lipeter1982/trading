@@ -6,8 +6,8 @@ from talib import abstract
 from datetime import datetime, timedelta
 
 # Enter your Binance API credentials
-api_key = 'uMSreSVTUwzR8t9hIU63DVUVGnMdJicE8YSSz9E6qfAxJ23LYYefDP1OfBuGEUq0'
-api_secret = 'C1pnvdgdjm7RlkCG3kIikU7fi5i6xmA59iT9kzOrO7NWo2uQn3E0yrX9WldYAX6k'
+api_key = 'key'
+api_secret = 'secret'
 client = Client(api_key, api_secret)
 
 # Define the time frames for the BTC chart
